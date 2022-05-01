@@ -9,4 +9,5 @@ Below you can see a list about me:
 - Studyng at: Universidad Rafael Belloso Chacin.
 - Languages: English and Spanish.
 
-Contact: Discord: Jαvier#4685 | Telegram: @Jajajavier | Email: javierdiazt406@gmail.com
+**Contact:** 
+Discord: Jαvier#4685 | Telegram: @Jajajavier | Email: javierdiazt406@gmail.com
