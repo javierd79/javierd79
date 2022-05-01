@@ -9,6 +9,7 @@ Below you can see a list about me:
 - Age: 20.
 - Studyng at: Universidad Rafael Belloso Chacin.
 - Languages: English and Spanish.
+- Knowledge: Node, ReactJs, MongoDB, PostgreSQL, MariaDB, MySQL, JavaScript, Ruby, Ruby on Rails.
 
 **Contact:** 
 
