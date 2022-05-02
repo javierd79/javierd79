@@ -1,6 +1,6 @@
 ### Hi and Welcome to my repository
 
-Thanks to see my repository, below you can see a list with all my information and contact.
+Thanks to see my repository, below you can see a list with all about my information and contact.
 
 Below you can see a list about me:
 
