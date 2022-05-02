@@ -7,7 +7,7 @@ Below you can see a list about me:
 **Personal Information**
 - Full Name: Javier Diaz.
 - Age: 20.
-- Studyng at: Universidad Rafael Belloso Chacin.
+- Studyng at: URBE University.
 - Languages: English and Spanish.
 - Knowledge: Node, React.Js, MongoDB, PostgreSQL, MariaDB, MySQL, JavaScript, Ruby, Ruby on Rails, VMWare, Docker, Linux.
 
