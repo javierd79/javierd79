@@ -9,7 +9,7 @@ Below you can see a list about me:
 - Age: 20.
 - Studying at: URBE University.
 - Languages: English and Spanish.
-- Knowledge: Node, React.Js, MongoDB, PostgreSQL, MariaDB, MySQL, JavaScript, Ruby, Ruby on Rails, VMWare, Docker, Linux.
+- Knowledge: Node, React.Js/Native, MongoDB, PostgreSQL, MariaDB, MySQL, JavaScript, Ruby, Ruby on Rails, VMWare, Docker, Linux.
 
 **Contact:** 
 
