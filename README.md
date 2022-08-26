@@ -1,8 +1,6 @@
-### Hi and Welcome to my repository
+### Welcome to my repository
 
-Thanks to see my repository, below you can see a list with all about my information and contact.
-
-Below you can see a list about me:
+I am an engineering student passionate about web development using both frontend and backend. I'm a fast learner and I like to learn something new every day.
 
 **Personal Information**
 - Full Name: Javier Diaz.
@@ -11,6 +9,8 @@ Below you can see a list about me:
 - Languages: English and Spanish.
 - Knowledge: Node, React.Js/Native, MongoDB, PostgreSQL, MariaDB, MySQL, JavaScript, Ruby, Ruby on Rails, VMWare, Docker, Linux.
 
-**Contact:** 
+**Contacts:** 
 
-Discord: Jαvier#4685 | Telegram: @Jajajavier | Email: javierdiazt406@gmail.com
+Discord: Jαvier#1001 | Telegram: @Jajajavier | Email: javierdiazt406@gmail.com
+
+if you want to contact me about a project, a question about some code or just to talk, feel free to contact me :)
