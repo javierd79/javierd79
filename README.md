@@ -1,6 +1,6 @@
 ### Welcome to my repository
 
-I am an engineering student passionate about web development using both frontend and backend. I'm a fast learner and I like to learn something new every day.
+I am an engineering student passionate about web development using both frontend and backend. I am a fast learner and I like to learn something new every day.
 
 **Personal Information**
 - Full Name: Javier Diaz.
