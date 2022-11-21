@@ -1,4 +1,4 @@
-### Welcome to my repository
+<h1><i>Welcome to my repository</i></h1>
 
 I'm an engineering student with passion for both front and back end web development;
 A fast learner, I'm always reading about something new.
@@ -16,10 +16,11 @@ Discord: Jαvier#3186 | Telegram: @Jajajavier | Email: javierdiazt406@gmail.com
 
 Feel free to contact me about projects, code questions or just to chat :)
 
-<center>
-  
-![Javierd79's Lang's stats](https://github-readme-stats.vercel.app/api/top-langs/?username=javierd79&theme=radical)
 
-![Javierd79's GitHub stats](https://github-readme-stats.vercel.app/api?username=javierd79&count_private=true&show_icons=true&theme=radical)
+<h1 style="text-align: center;"><i>My Stats</i></h1>
+
+<kbo>
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javierd79&theme=radical"> <img align="top" src="https://github-readme-stats.vercel.app/api?username=javierd79&count_private=true&show_icons=true&theme=radical"></p>
   
-</center>
+</kbo>
