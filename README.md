@@ -23,6 +23,7 @@ A fast learner, I'm always reading about something new.
   <img align="center" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/1200px-Ruby_On_Rails_Logo.svg.png">
   <img align="center" width="60px" src="https://www.lifepng.com/wp-content/uploads/2020/11/PostgreSQL-Logo-png-hd.png">
   <img align="center" width="60px" src="https://viget.imgix.net/mongo-logo.png?auto=format%2Ccompress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1280&ixlib=php-2.1.1&q=90&w=1280&s=a153c7c80f42ab1e7db7fd2b6a27ab3b">
+  <img align="center" width="60px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/ionic-icon.png">
   <img align="center" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Gnulinux.svg/1200px-Gnulinux.svg.png">
   <img align="center" width="60px" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/ywjqppks5ffcnbfjuttq">
   <img align="center" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
