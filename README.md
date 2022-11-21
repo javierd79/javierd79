@@ -15,3 +15,9 @@ A fast learner, I'm always reading about something new.
 Discord: Jαvier#3186 | Telegram: @Jajajavier | Email: javierdiazt406@gmail.com
 
 Feel free to contact me about projects, code questions or just to chat :)
+
+<center>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=javierd79&count_private=true&show_icons=true&theme=radical)
+
+</center>
