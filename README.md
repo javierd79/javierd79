@@ -1,4 +1,4 @@
-<h1><i>Welcome to my repository</i></h1>
+<h1><i>Welcome to my repository <img align="center" style="width: 25px" src="https://images-ext-2.discordapp.net/external/8BURNvFFiklNlMBfKvCh1ttK-DOoXt7TC_XA_gRN-No/https/github.githubassets.com/images/mona-loading-dark.gif"></i></h1>
 
 I'm an engineering student with passion for both front and back end web development;
 A fast learner, I'm always reading about something new.
