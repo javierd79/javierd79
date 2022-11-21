@@ -17,9 +17,7 @@ Discord: Jαvier#3186 | Telegram: @Jajajavier | Email: javierdiazt406@gmail.com
 Feel free to contact me about projects, code questions or just to chat :)
 
 <center>
+![Javierd79's Lang's stats](https://github-readme-stats.vercel.app/api/top-langs/?username=javierd79&theme=radical)
 
 ![Javierd79's GitHub stats](https://github-readme-stats.vercel.app/api?username=javierd79&count_private=true&show_icons=true&theme=radical)
-
-![Javierd79's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=javierd79&theme=radical)
-
 </center>
