@@ -34,10 +34,10 @@ A fast learner, I'm always reading about something new.
 
 <p align="center">
   <img align="center" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png">
+  <img align="center" width="55px" src="https://static-00.iconduck.com/assets.00/nestjs-icon-512x510-9nvpcyc3.png">  
+  <img align="center" width="60px" src="https://avatars.githubusercontent.com/u/1481354?s=280&v=4">  
   <img align="center" width="60px" src="https://www.npmjs.com/npm-avatar/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdmF0YXJVUkwiOiJodHRwczovL3MuZ3JhdmF0YXIuY29tL2F2YXRhci8wOWE1NmNkNDlhNmM2YjM3OWIyN2NkMjg5YjY2ZjcwZT9zaXplPTQ5NiZkZWZhdWx0PXJldHJvIn0.27pPabBKU3mugpyRKVj0AArg3Ys0vO0jHx5TfbAc214">
   <img align="center" width="47px" src="https://www.freelogovectors.net/wp-content/uploads/2022/01/prisma_logo-freelogovectors.net_.png">
-  <img align="center" width="60px" src="https://www.nicepng.com/png/full/370-3707528_65159967-golang-logo.png">  
-  <img align="center" width="55px" src="https://static-00.iconduck.com/assets.00/nestjs-icon-512x510-9nvpcyc3.png">  
   <img align="center" width="60px" src="http://rust-lang.org/logos/rust-logo-256x256-blk.png">  
   <img align="center" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Carbon_logo.png">
 </p>
