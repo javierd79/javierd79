@@ -91,8 +91,8 @@ A fast learner, I'm always reading about something new.
 <h1><i>Contacts:</i></h1>
 
 ```js
-let = Discord = "Jαvier#3186" 
-let = Telegram: "@Jajajavier" 
+let Discord = "Jαvier#3186" 
+let Telegram = "@Jajajavier" 
 let Email = "javierdiazt406@gmail.com"
 ```
   
