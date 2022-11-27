@@ -90,8 +90,12 @@ A fast learner, I'm always reading about something new.
 
 <h1><i>Contacts:</i></h1>
 
-Discord: Jαvier#3186 | Telegram: @Jajajavier | Email: javierdiazt406@gmail.com
-
+```js
+let = Discord = "Jαvier#3186" 
+let = Telegram: "@Jajajavier" 
+let Email = "javierdiazt406@gmail.com"
+```
+  
 Feel free to contact me about projects, code questions or just to chat :)
 
 
