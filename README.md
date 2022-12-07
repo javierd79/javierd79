@@ -1,6 +1,7 @@
 <h1><i>Welcome to my repository <img align="center" style="width: 25px!important" src="https://images-ext-2.discordapp.net/external/8BURNvFFiklNlMBfKvCh1ttK-DOoXt7TC_XA_gRN-No/https/github.githubassets.com/images/mona-loading-dark.gif"></i></h1>
 
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](https://github.com/standard/standard)
+[![TS-Standard - TypeScript Standard Style Guide](https://badgen.net/badge/code%20style/ts-standard/blue?icon=typescript)](https://github.com/standard/ts-standard)
 
 I'm an engineering student with passion for both front and back end web development;
 A fast learner, I'm always reading about something new.
