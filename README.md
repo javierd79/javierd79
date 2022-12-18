@@ -74,8 +74,8 @@ A fast learner, I'm always reading about something new.
   <a href="https://nestjs.com/" target="_blank">
     <img align="center" width="55px" src="https://static-00.iconduck.com/assets.00/nestjs-icon-512x510-9nvpcyc3.png">  
   </a>
-  <a href="https://elixir-lang.org/" target="_blank">
-    <img align="center" width="60px" src="https://avatars.githubusercontent.com/u/1481354?s=280&v=4">  
+  <a href="https://www.swift.org/" target="_blank">
+    <img align="center" width="60px" src="https://miro.medium.com/max/800/1*KLrw9Oy3qxuBGqrVKXGL_A.png">  
   </a>
   <a href="https://www.apollographql.com/docs/react/" target="_blank">
     <img align="center" width="60px" src="https://www.npmjs.com/npm-avatar/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdmF0YXJVUkwiOiJodHRwczovL3MuZ3JhdmF0YXIuY29tL2F2YXRhci8wOWE1NmNkNDlhNmM2YjM3OWIyN2NkMjg5YjY2ZjcwZT9zaXplPTQ5NiZkZWZhdWx0PXJldHJvIn0.27pPabBKU3mugpyRKVj0AArg3Ys0vO0jHx5TfbAc214">
