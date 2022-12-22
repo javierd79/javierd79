@@ -78,14 +78,14 @@ A fast learner, I'm always reading about something new.
   <a href="https://www.swift.org/" target="_blank">
     <img align="center" width="60px" src="https://miro.medium.com/max/800/1*KLrw9Oy3qxuBGqrVKXGL_A.png">  
   </a>
-  <a href="https://www.apollographql.com/docs/react/" target="_blank">
-    <img align="center" width="60px" src="https://www.npmjs.com/npm-avatar/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdmF0YXJVUkwiOiJodHRwczovL3MuZ3JhdmF0YXIuY29tL2F2YXRhci8wOWE1NmNkNDlhNmM2YjM3OWIyN2NkMjg5YjY2ZjcwZT9zaXplPTQ5NiZkZWZhdWx0PXJldHJvIn0.27pPabBKU3mugpyRKVj0AArg3Ys0vO0jHx5TfbAc214">
+  <a href="https://kotlinlang.org/" target="_blank">
+    <img align="center" width="50px" src="https://oregoom.com/wp-content/uploads/2020/09/Kotlin.png">
   </a>
   <a href="https://www.prisma.io/" target="_blank">
-    <img align="center" width="47px" src="https://www.freelogovectors.net/wp-content/uploads/2022/01/prisma_logo-freelogovectors.net_.png">
+    <img align="center" width="50px" src="https://www.freelogovectors.net/wp-content/uploads/2022/01/prisma_logo-freelogovectors.net_.png">
   </a>
-  <a href="https://www.rust-lang.org" target="_blank">
-    <img align="center" width="60px" src="http://rust-lang.org/logos/rust-logo-256x256-blk.png">  
+  <a href="https://go.dev/" target="_blank">
+    <img align="center" width="60px" src="https://miro.medium.com/max/2400/1*yh90bW8jL4f8pOTZTvbzqw.png">  
   </a>
   <a href="https://github.com/carbon-language/carbon-lang" target="_blank">
     <img align="center" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Carbon_logo.png">
