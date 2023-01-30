@@ -64,17 +64,17 @@ A fast learner, I'm always reading about something new.
   <a href="https://es.wikipedia.org/wiki/C%2B%2B" target="_blank">
     <img align="center" width="60px" src="https://cdn.freebiesupply.com/logos/large/2x/c-logo-svg-vector.svg">
   </a>
-</p>
-  
-<h1><i>I will learn</i></h1>
-
-<p align="center">
   <a href="https://graphql.org/" target="_blank">
     <img align="center" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png">
   </a>
   <a href="https://nestjs.com/" target="_blank">
     <img align="center" width="55px" src="https://static-00.iconduck.com/assets.00/nestjs-icon-512x510-9nvpcyc3.png">  
   </a>
+</p>
+  
+<h1><i>I will learn</i></h1>
+
+<p align="center">
   <a href="https://www.swift.org/" target="_blank">
     <img align="center" width="60px" src="https://miro.medium.com/max/800/1*KLrw9Oy3qxuBGqrVKXGL_A.png">  
   </a>
