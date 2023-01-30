@@ -87,8 +87,8 @@ A fast learner, I'm always reading about something new.
   <a href="https://go.dev/" target="_blank">
     <img align="center" width="60px" src="https://miro.medium.com/max/2400/1*yh90bW8jL4f8pOTZTvbzqw.png">  
   </a>
-  <a href="https://github.com/carbon-language/carbon-lang" target="_blank">
-    <img align="center" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Carbon_logo.png">
+  <a href="https://www.rust-lang.org/" target="_blank">
+    <img align="center" width="60px" src="https://www.freecodecamp.org/news/content/images/2021/01/rust-mascot.png">
   </a>
 </p>
 
