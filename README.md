@@ -32,7 +32,7 @@ A fast learner, I'm always reading about something new.
     <img align="center" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png">
   </a>
   <a href="https://nextjs.org/" target="_blank">
-  <img align="center" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/2560px-Nextjs-logo.svg.png">
+  <img align="center" width="65px" src="https://i.imgur.com/Oy0vXFq.png">
   </a>
   <a href="https://nodejs.org/en/" target="_blank">
     <img align="center" width="60px" src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-1-logo-png-transparent.png">
