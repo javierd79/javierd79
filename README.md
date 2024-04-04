@@ -2,7 +2,7 @@
 
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](https://github.com/standard/standard)
 [![TS-Standard - TypeScript Standard Style Guide](https://badgen.net/badge/code%20style/ts-standard/blue?icon=typescript)](https://github.com/standard/ts-standard)
-[![Studying at](https://img.shields.io/badge/I%20am%20studying%20at-URBE%20University-red)](https://www.urbe.edu/)
+[![Studying at](https://img.shields.io/badge/graduated%20at-URBE%20University-red)](https://www.urbe.edu/)
 
 I'm an engineering student with passion for both front and back end web development;
 A fast learner, I'm always reading about something new.
