@@ -9,9 +9,9 @@ A fast learner, I'm always reading about something new.
 
 **Personal Information**
 - Full Name: Javier Diaz.
-- Age: 21.
+- Age: 22.
 - Studying at: URBE University.
-- Languages: English and Spanish.
+- Languages: English and Spanish [Native].
 
 <h1><i>Knowledge<i></h1>
   
