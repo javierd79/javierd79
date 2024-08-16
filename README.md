@@ -4,7 +4,7 @@
 [![TS-Standard - TypeScript Standard Style Guide](https://badgen.net/badge/code%20style/ts-standard/blue?icon=typescript)](https://github.com/standard/ts-standard)
 [![Studying at](https://img.shields.io/badge/graduated%20at-URBE%20University-red)](https://www.urbe.edu/)
 
-Hello I'm Javier, a passionate software engineer.
+Hello I'm Javier, a passionate software engineer. <br>
 Let's take your project to the next level.
 
 **Personal Information**
