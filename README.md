@@ -4,8 +4,8 @@
 [![TS-Standard - TypeScript Standard Style Guide](https://badgen.net/badge/code%20style/ts-standard/blue?icon=typescript)](https://github.com/standard/ts-standard)
 [![Studying at](https://img.shields.io/badge/graduated%20at-URBE%20University-red)](https://www.urbe.edu/)
 
-I'm an engineering student with passion for both front and back end web development;
-A fast learner, I'm always reading about something new.
+Hello I'm Javier, a passionate software engineer.
+Let's take your project to the next level.
 
 **Personal Information**
 - Full Name: Javier Diaz.
