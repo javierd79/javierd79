@@ -9,8 +9,7 @@ Let's take your project to the next level.
 
 **Personal Information**
 - Full Name: Javier Diaz.
-- Age: 23.
-- Graduated at: URBE University.
+- Age: 24.
 - Languages: English and Spanish [Native].
 
 <h1><i>Knowledge<i></h1>
