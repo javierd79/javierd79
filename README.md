@@ -96,7 +96,7 @@ Let's take your project to the next level.
 ```js
 let Discord = "javierd79";
 let Telegram = "@Jajajavier"; 
-let Email = "javierdiazt406@gmail.com";
+let Email = "javierdiazt406@icloud.com";
 ```
   
 Feel free to contact me about projects, code questions or just to chat :)
